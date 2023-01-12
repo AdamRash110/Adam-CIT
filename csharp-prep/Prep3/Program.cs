@@ -6,7 +6,7 @@ class Program
     {
         Random randomGenerator = new Random();
         int specialinteger = randomGenerator.Next(1, 101);
-        int guess = -1
+        int guess = -1;
         while (guess != specialinteger)
         {
             Console.Write("What is your guess for the random number between 1 and 101? ");
