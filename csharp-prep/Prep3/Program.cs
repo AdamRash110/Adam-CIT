@@ -21,7 +21,7 @@ class Program
             }
             else
             {
-                Console.WriteLine('You guessed the correct number! Good job! ');
+                Console.WriteLine("You guessed the correct number! Good job! ");
             }
         }
     }
